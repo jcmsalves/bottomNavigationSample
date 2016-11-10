@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">BottomNavigationSample</string>
+
+    <!--Bottom navigation menu-->
+    <string name="menu_item_home">Home</string>
+    <string name="menu_item_car">By Car</string>
+    <string name="menu_item_bike">Cycling</string>
+    <string name="menu_item_walk">Walking</string>
+
+    <!--Fragment titles-->
+    <string name="fragment_home_title">Home fragment</string>
+    <string name="fragment_car_title">Car fragment</string>
+    <string name="fragment_bike_title">Bike fragment</string>
+    <string name="fragment_walk_title">Walk fragment</string>
+
+</resources>

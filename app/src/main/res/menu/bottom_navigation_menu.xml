@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_home"
+        android:enabled="true"
+        android:icon="@drawable/ic_home_white_24dp"
+        android:title="@string/menu_item_home" />
+    <item
+        android:id="@+id/action_car"
+        android:enabled="true"
+        android:icon="@drawable/ic_directions_car_white_24dp"
+        android:title="@string/menu_item_car" />
+    <item
+        android:id="@+id/action_bike"
+        android:enabled="true"
+        android:icon="@drawable/ic_directions_bike_white_24dp"
+        android:title="@string/menu_item_bike" />
+
+    <item
+        android:id="@+id/action_walk"
+        android:enabled="true"
+        android:icon="@drawable/ic_directions_walk_white_24dp"
+        android:title="@string/menu_item_walk" />
+</menu>
